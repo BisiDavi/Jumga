@@ -1,0 +1,10 @@
+{
+  "title": "JUMGA Merchant Store",
+  "titleTemplate": "%s - JUMGA your one stop shop",
+  "description": "Sell your products on Jumga Store. Get connected to customers",
+  "openGraph": {
+    "type": "website",
+    "locale": "en_IE",
+    "site_name": "JUMGA Store"
+  }
+}
