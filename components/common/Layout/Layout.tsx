@@ -4,4 +4,7 @@ import dynamic from 'next/dynamic';
 import { useRouter } from 'next/router';
 import { useUI } from '@components/ui/context';
 import { Navbar, Footer } from '@components/common';
+import { useAcceptCookies } from '@lib/hooks/useAcceptCookies';
+import { Sidebar, Button, Modal, LoadingDots } from '@components/ui';
+import { CartSidebarView } from '@components/cart';
 import s from './layout.module.css';
